@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Language xmlns="http://schema.kanpekiitsolutions.com/">
+  <LangType>pt-br</LangType>
+  <LangName>Português (Brasil)</LangName>
+  <lblScanSources>Scanners</lblScanSources>
+  <btnScan>&amp;Digitalizar</btnScan>
+  <lblOutputFileType>Tipo de arquivo de saída</lblOutputFileType>
+  <lblTargetDirectory>Salvar na pasta</lblTargetDirectory>
+  <btnBrowse>Selecionar</btnBrowse>
+  <lblDescription>Descrição</lblDescription>
+  <btnClear>Limpar</btnClear>
+  <btnSave>Salvar</btnSave>
+
+  <msgPage>Página</msgPage>
+  <msgTargetDirectoryNotSet>Diretorio selecionado não definido.</msgTargetDirectoryNotSet>
+  <msgTargetDirectoryNotExist>Diretorio selecionado não existe.</msgTargetDirectoryNotExist>
+  <msgDescriptionNotDefined>Descrição não definida.</msgDescriptionNotDefined>
+  <msgNoScannedPagesToSave>Não há nenhuma pagina a ser salva.</msgNoScannedPagesToSave>
+  <msgOutputFileTypeNotDefined>Tipo de arquivo de saída não definido.</msgOutputFileTypeNotDefined>
+  <msgSuccessSaveSingleFile>Arquivo '{0}' foi salvo com sucesso.</msgSuccessSaveSingleFile>
+  <msgSuccessSaveMultiFile>Arquivos salvos com sucesso. </msgSuccessSaveMultiFile>
+  <msgConfirmCloseWithoutSave>Tem certeza que deseja sair sem salvar?</msgConfirmCloseWithoutSave>
+  <msgNoScanSources>Não foi possível encontrar algum scanner instalado em seu computador.</msgNoScanSources>
+
+  <msgAbout>Sobre</msgAbout>
+  <msgVersion>Versão</msgVersion>
+  <msgConfirmChangeLangAfterImport>Você gostaria de alterar o idioma para '{0}' agora?</msgConfirmChangeLangAfterImport>
+
+  <mnuTools>&amp;Ferramentas</mnuTools>
+  <mnuImportLanguageFile>&amp;Importar arquivo de idioma...</mnuImportLanguageFile>
+  <mnuExportEmptyLanguageFile>&amp;Exportar arquivo de idioma vazio...</mnuExportEmptyLanguageFile>
+  <mnuChangeDPI>Alterar &amp;DPI...</mnuChangeDPI>
+
+  <mnuHelp>&amp;Ajuda</mnuHelp>
+  <mnuAbout>&amp;Sobre...</mnuAbout>
+  <mnuChangeLanguage>Alterar idioma</mnuChangeLanguage>
+</Language>

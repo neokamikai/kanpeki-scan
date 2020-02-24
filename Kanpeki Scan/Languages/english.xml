@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Language xmlns="http://schema.kanpekiitsolutions.com/">
+  <LangType>en-us</LangType>
+  <LangName>English</LangName>
+  <lblScanSources>Scan Sources</lblScanSources>
+  <btnScan>&amp;Scan</btnScan>
+  <lblOutputFileType>Output File Type</lblOutputFileType>
+  <lblTargetDirectory>Target Directory</lblTargetDirectory>
+  <btnBrowse>&amp;Browse</btnBrowse>
+  <lblDescription>Description</lblDescription>
+  <btnClear>&amp;Clear</btnClear>
+  <btnSave>Save</btnSave>
+
+  <msgPage>Page</msgPage>
+  <msgTargetDirectoryNotSet>Target directory not defined.</msgTargetDirectoryNotSet>
+  <msgTargetDirectoryNotExist>Target directory does not exist.</msgTargetDirectoryNotExist>
+  <msgDescriptionNotDefined>Description not defined.</msgDescriptionNotDefined>
+  <msgNoScannedPagesToSave>There is nothing to save.</msgNoScannedPagesToSave>
+  <msgOutputFileTypeNotDefined>Output file type not defined.</msgOutputFileTypeNotDefined>
+  <msgSuccessSaveSingleFile>Successfully saved '{0}'.</msgSuccessSaveSingleFile>
+  <msgSuccessSaveMultiFile>Successfully saved files. </msgSuccessSaveMultiFile>
+  <msgConfirmCloseWithoutSave>Are you sure you want to quit without saving?</msgConfirmCloseWithoutSave>
+  <msgNoScanSources>Could not find any scanner installed on your computer.</msgNoScanSources>
+
+  <msgAbout>About</msgAbout>
+  <msgVersion>Version</msgVersion>
+  <msgConfirmChangeLangAfterImport>Would you like to change language to '{0}' now?</msgConfirmChangeLangAfterImport>
+
+  <mnuTools>&amp;Tools</mnuTools>
+  <mnuImportLanguageFile>&amp;Import Language File...</mnuImportLanguageFile>
+  <mnuExportEmptyLanguageFile>&amp;Export Empty Language File...</mnuExportEmptyLanguageFile>
+  <mnuChangeDPI>Change &amp;DPI...</mnuChangeDPI>
+  
+  <mnuHelp>&amp;Help</mnuHelp>
+  <mnuAbout>&amp;About</mnuAbout>
+  <mnuChangeLanguage>Change Language</mnuChangeLanguage>
+  
+</Language>
